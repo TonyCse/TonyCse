@@ -59,7 +59,9 @@
   ### My Pokedex
 
   
-https://main--vermillion-jelly-a58b5f.netlify.app/
+  <a href="https://main--vermillion-jelly-a58b5f.netlify.app/" target="_blank" rel="noreferrer"> 
+   here
+  </a> 
 
 -------------
 
