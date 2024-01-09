@@ -1,7 +1,7 @@
 #  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>  I'm Tony Cseresznyak
 
 ### Front-end Developer
-* 🤝🏻  I'm looking for a job as a front-end developer in Paris
+* 🤝🏻  I'm looking for a work-study program as a developer web in Paris
 * 🌍  I'm based in Cregy-les-Meaux
 * ✉️  You can contact me at [tonycseresznyak@hotmail.com](mailto:tonycseresznyak@hotmail.com)
 
@@ -54,12 +54,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a> 
 </p>
+-------------
+  ### My Portfolio
 
+  
+  <a href="https://tony-cseresznyak.vercel.app/" target="_blank" rel="noreferrer"> 
+   here
+  </a> 
+  
 -------------
   ### My Pokedex
 
   
-  <a href="https://main--vermillion-jelly-a58b5f.netlify.app/" target="_blank" rel="noreferrer"> 
+  <a href="https://pokedex-tony-cseresznyak.vercel.app/" target="_blank" rel="noreferrer"> 
    here
   </a> 
 
