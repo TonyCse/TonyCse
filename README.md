@@ -1,6 +1,6 @@
 #  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>  I'm Tony Cseresznyak
 
-### Front-end Developer
+### Developer Web
 * 🤝🏻  I'm looking for a work-study program as a developer web in Paris
 * 🌍  I'm based in Cregy-les-Meaux
 * ✉️  You can contact me at [tonycseresznyak@hotmail.com](mailto:tonycseresznyak@hotmail.com)
