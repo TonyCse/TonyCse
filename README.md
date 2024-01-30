@@ -56,19 +56,25 @@
 </p>
 
 -------------
-  ### My Portfolio
+  ### Portfolio
 
   
   <a href="https://tony-cseresznyak.vercel.app/" target="_blank" rel="noreferrer"> 
-   here
+   <img src="https://i.ibb.co/nwvYCTH/mobile-app.png" alt="pokedex" width="332" height="200"/>
   </a> 
   
 -------------
-  ### My Pokedex
+  ### Projects
 
   
   <a href="https://pokedex-tony-cseresznyak.vercel.app/" target="_blank" rel="noreferrer"> 
-   here
+   <img src="https://i.ibb.co/8Bg7CKz/poke-1.png" alt="pokedex" width="332" height="200"/>
+  </a> 
+  <a href="https://ohmyfood-tony.vercel.app/" target="_blank" rel="noreferrer"> 
+   <img src="https://i.ibb.co/wRBKPdx/ohmyfood.png" alt="ohmyfood" width="332" height="201"/>
+  </a> 
+  <a href="https://projet-booki.vercel.app/" target="_blank" rel="noreferrer"> 
+   <img src="https://i.ibb.co/j6Jt8cq/booki.png" alt="sass" width="332" height="200"/>
   </a> 
 
 -------------
