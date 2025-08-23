@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🤝 I'm currently looking for a **work-study program** as a Web Developer in **Paris**  
-- 🌍 Based in **Crégy-les-Meaux**  
+- 🌍 Based in France 
 - ✉️ Contact me at : [tonycseresznyak@hotmail.com](mailto:tonycseresznyak@hotmail.com)  
 - 🔗 Portfolio : [tony-cseresznyak.vercel.app](https://tony-cseresznyak.vercel.app/)  
 
