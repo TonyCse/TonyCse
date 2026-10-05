@@ -3,7 +3,7 @@
   Visuals: SVGs in /assets (generator: /scripts/gen.py)
 -->
 
-<p><img align="top" width="63.33%" src="./assets/hero.svg" alt="Tony Cseresznyak — Full-stack developer, front-end focused. I build interfaces that move." /></p>
+<p><img align="top" width="63.33%" src="./assets/hero-name.svg" alt="Tony Cseresznyak — Full-stack developer, front-end focused. I build interfaces that move." /><img align="top" width="36.66%" src="./assets/hero-avatar.png" alt="Avatar of Tony — Open to work" /></p>
 
 <!-- 01 · ABOUT -->
 
