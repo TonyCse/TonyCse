@@ -3,9 +3,7 @@
   Visuals: SVGs in /assets (generator: /scripts/gen.py)
 -->
 
-<p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Tony Cseresznyak — Full-stack developer, front-end focused. I build interfaces that move." />
-</p>
+<p><img align="top" width="63.33%" src="./assets/hero.svg" alt="Tony Cseresznyak — Full-stack developer, front-end focused. I build interfaces that move." /><img align="top" width="36.66%" src="./assets/hero-avatar.png" alt="Avatar of Tony — Open to work" /></p>
 
 <!-- 01 · ABOUT -->
 
@@ -33,7 +31,7 @@
   <img src="./assets/header-work.svg" width="100%" alt="03 — Work" />
 </p>
 
-<p><a href="https://bibliotech-app.vercel.app/" target="_blank"><img align="top" width="49%" src="./assets/project-bibliotech.svg" alt="BiblioTech — a 3D shelf of tech talent profiles, each one is a book" /></a><img align="top" width="1.9%" src="./assets/spacer.svg" alt="" /><a href="https://gl-hf.site/" target="_blank"><img align="top" width="49%" src="./assets/project-glhf.svg" alt="GLHF — esports tournament platform, my graduation project" /></a><br /><a href="https://tony-cseresznyak.vercel.app/" target="_blank"><img align="top" width="49%" src="./assets/project-portfolio.svg" alt="Portfolio — my personal site, designed as a desktop with windows" /></a><img align="top" width="1.9%" src="./assets/spacer.svg" alt="" /><a href="https://pokedex-tony-cseresznyak.vercel.app/" target="_blank"><img align="top" width="49%" src="./assets/project-pokedex.svg" alt="Pokédex — search &amp; browse Pokémon with data from PokéAPI" /></a></p>
+<p><a href="https://bibliotech-app.vercel.app/" target="_blank"><img align="top" width="49%" src="./assets/project-bibliotech.png" alt="BiblioTech — a 3D shelf of tech talent profiles, each one is a book" /></a><img align="top" width="1.9%" src="./assets/spacer.svg" alt="" /><a href="https://gl-hf.site/" target="_blank"><img align="top" width="49%" src="./assets/project-glhf.png" alt="GLHF — esports tournament platform, my graduation project" /></a><br /><a href="https://tony-cseresznyak.vercel.app/" target="_blank"><img align="top" width="49%" src="./assets/project-portfolio.png" alt="Portfolio — my personal site: about, experience, projects and contact" /></a><img align="top" width="1.9%" src="./assets/spacer.svg" alt="" /><a href="https://pokedex-tony-cseresznyak.vercel.app/" target="_blank"><img align="top" width="49%" src="./assets/project-pokedex.png" alt="Pokédex — search &amp; browse Pokémon with data from PokéAPI" /></a></p>
 
 <!-- 04 · STATS -->
 
